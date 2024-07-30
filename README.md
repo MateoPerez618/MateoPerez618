@@ -1,25 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mateo Perez Gutierrez</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
-- 🔭 I’m currently working on **1**
+- 🔭 I’m currently working on **(searching)/Freelancer**
 
-- 🌱 I’m currently learning **4**
+- 🌱 I’m currently learning **NodeJS**
 
-- 👯 I’m looking to collaborate on **2**
+- 🤝 I’m looking for help with **Python and data science**
 
-- 🤝 I’m looking for help with **3**
-
-- 👨‍💻 All of my projects are available at [7](7)
-
-- 📝 I regularly write articles on [8](8)
-
-- 💬 Ask me about **5**
-
-- 📫 How to reach me **6**
-
-- 📄 Know about my experiences [9](9)
-
-- ⚡ Fun fact **10**
+- 👨‍💻 All of my projects are available at **...**
 
 <h3 align="left">Skills:</h3>
 <p align="left">
